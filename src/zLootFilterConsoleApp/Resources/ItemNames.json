@@ -1,0 +1,207 @@
+{
+  // Strangling Gas Potion
+  "gpl": "",
+  // Fulminating Potion
+  "opl": "",
+  // Choking Gas Potion
+  "gpm": "",
+  // Exploding Potion
+  "opm": "",
+  // Rancid Gas Potion
+  "gps": "",
+  // Oil Potion
+  "ops": "",
+
+  // Tome of Town Portal
+  "tbk": "ÿc3•ÿc0TP Bookÿc3•",
+  // "Scroll of Town Portal
+  "tsc": "ÿc3•ÿc5TPÿc3•",
+
+  // Tome of Identify
+  "ibk": "ÿc1•ÿc0ID Bookÿc1•",
+  // Scroll of Identify
+  "isc": "ÿc1•ÿc5IDÿc1•",
+
+  // Stamina Potion
+  "vps": "ÿc7•ÿc5Stmnÿc7•",
+  // Antidote Potion
+  "yps": "ÿcA•ÿc5AntÿcA•",
+  // Thawing Potion
+  "wms": "ÿc8•ÿc5Thawÿc8•",
+
+  // Minor Healing Potion
+  "hp1": "ÿc1•ÿc5HP1ÿc1•",
+  // Light Healing Potion
+  "hp2": "ÿc1•ÿc5HP2ÿc1•",
+  // Healing Potion
+  "hp3": "ÿc1•ÿc5HP3ÿc1•",
+  // Greater Healing Potion
+  "hp4": "ÿc1•ÿc5HP4ÿc1•",
+  // Super Healing Potion
+  "hp5": "ÿc1••ÿc0HP5ÿc1••",
+
+  // Minor Mana Potion
+  "mp1": "ÿc3•ÿc5MP1ÿc3•",
+  // Light Mana Potion
+  "mp2": "ÿc3•ÿc5MP2ÿc3•",
+  // Mana Potion
+  "mp3": "ÿc3•ÿc5MP3ÿc3•",
+  // Greater Mana Potion
+  "mp4": "ÿc3•ÿc5MP4ÿc3•",
+  // Super Mana Potion
+  "mp5": "ÿc3••ÿc0MP5ÿc3••",
+
+  // Rejuvenation Potion
+  "rvs": "ÿc;•ÿc5Smallÿc;•",
+  // Full Rejuvenation Potion
+  "rvl": "ÿc;•••ÿc0Fullÿc;•••",
+
+  // Arrows
+  "aqv": "ÿc1>>ÿc5Arrowsÿc1<<",
+  // Bolts
+  "cqv": "ÿc3>>ÿc5Boltsÿc3<<",
+
+  // Key
+  "key": "ÿc5•Key•",
+
+  // Chipped Amethyst
+  "gcv": "ÿc5•gem• Chipped Amethyst",
+  // Flawed Amethyst
+  "gfv": "ÿc5•gem• Flawed Amethyst",
+  // Amethyst
+  "gsv": "ÿc5•gem• Amethyst",
+  // Flawless Amethyst
+  "gzv": "ÿc8•gem• Flawless ÿc0Amethyst ÿc8•",
+  // Perfect Amethyst
+  "gpv": "ÿc8•gem• Perfect ÿc0Amethyst ÿc8•••",
+
+  // Chipped Topaz
+  "gcy": "ÿc5•gem• Chipped Topaz",
+  // Flawed Topaz
+  "gfy": "ÿc5•gem• Flawed Topaz",
+  // Topaz
+  "gsy": "ÿc5•gem• Topaz",
+  // Flawless Topaz
+  "gly": "ÿc8•gem• Flawless ÿc0Topaz ÿc8•",
+  // Perfect Topaz
+  "gpy": "ÿc8•gem• Perfect ÿc0Topaz ÿc8•••",
+
+  // Chipped Sapphire
+  "gcb": "ÿc5•gem• Chipped Sapphire",
+  // Flawed Sapphire
+  "gfb": "ÿc5•gem• Flawed Sapphire",
+  // Flawless Sapphire
+  "glb": "ÿc8•gem• Flawless ÿc0Sapphire ÿc8•",
+  // Perfect Sapphire
+  "gpb": "ÿc8•gem• Perfect ÿc0Sapphire ÿc8•••",
+
+  // Chipped Emerald
+  "gcg": "ÿc5•gem• Chipped Emerald",
+  // Flawed Emerald
+  "gfg": "ÿc5•gem• Flawed Emerald",
+  // Emerald [missing]
+  "gsg": "ÿc5•gem• Emerald",
+  // Flawless Emerald
+  "glg": "ÿc8•gem• Flawless ÿc0Emerald ÿc8•",
+  // Perfect Emerald
+  "gpg": "ÿc8•gem• Perfect ÿc0Emerald ÿc8•••",
+
+  // Chipped Ruby
+  "gcr": "ÿc5•gem• Chipped Ruby",
+  // Flawed Ruby
+  "gfr": "ÿc5•gem• Flawed Ruby",
+  // Ruby [missing]
+  "gsr": "ÿc5•gem• Ruby",
+  // Flawless Ruby
+  "glr": "ÿc8•gem• Flawless ÿc0Ruby ÿc8•",
+  // Perfect Ruby
+  "gpr": "ÿc8•gem• Perfect ÿc0Ruby ÿc8•••",
+
+  // Chipped Diamond
+  "gcw": "ÿc5•gem• Chipped Diamond",
+  // Flawed Diamond
+  "gfw": "ÿc5•gem• Flawed Diamond",
+  // Diamond [missing]
+  "gsw": "ÿc5•gem• Diamond",
+  // Flawless Diamond
+  "glw": "ÿc8•gem• Flawless ÿc0Diamond ÿc8•",
+  // Perfect Diamond
+  "gpw": "ÿc8•gem• Perfect ÿc0Diamond ÿc8•••",
+
+  // Chipped Skull
+  "skc": "ÿc5•gem• Chipped Skull",
+  // Flawed Skull
+  "skf": "ÿc5•gem• Flawed Skull",
+  // Skull
+  "sku": "ÿc5•gem• Skull",
+  // Flawless Skull
+  "skl": "ÿc8•gem• Flawless ÿc0Skull ÿc8•",
+  // Perfect Skull
+  "skz": "ÿc8•gem• Perfect ÿc0Skull ÿc8•••",
+
+  // Key of Terror
+  "pk1": "ÿc1•••ÿc8Key of Terrorÿc1•••",
+  // Key of Hate
+  "pk2": "ÿc1•••ÿc8Key of Hateÿc1•••",
+  // Key of Destruction
+  "pk3": "ÿc1•••ÿc8Key of Destructionÿc1•••",
+
+  // Weapons
+  "crs": "•swrd• Crystal Sword",
+  "7cr": "•swrd• Phase Blade",
+  "7wa": "•axe• Berserker Axe",
+  "72a": "•axe• Ettin Axe",
+  "7bt": "•axe• Decapitator",
+  "7ga": "•axe• Champion Axe",
+  "fla": "•mace• Flail",
+  "7m7": "•mace• Ogre Maul",
+  "7gm": "•mace• Thunder Maul",
+  "7vo": "•plrm• Colossus Voulge",
+  "7s8": "•plrm• Thresher",
+  "7pa": "•plrm• Cryptic Axe",
+  "7h7": "•plrm• Great Poleaxe",
+  "7wc": "•plrm• Giant Thresher",
+  "amc": "•bow• Grand Matron Bow",
+
+  // Javelins
+  "am5": "•java• Maiden Javelin",
+  "ama": "•java• Ceremonial Javelin",
+  "amf": "•java• Matriarchal Javelin",
+
+  // Body Armor
+  "uui": "•body• Dusk Shroud",
+  "uea": "•body• Wyrmhide",
+  "ula": "•body• Scarab Husk",
+  "utu": "•body• Wire Fleece",
+  "urs": "•body• Great Hauberk",
+  "utp": "•body• Archon Plate",
+
+  // Shields
+  "uit": "•shld• Monarch",
+
+  // Paladin shields
+  "pab": "•shld• Sacred Targe",
+  "pac": "•shld• Sacred Rondache",
+  "pad": "•shld• Kurast Shield",
+  "pae": "•shld• Zakarum Shield",
+  "paf": "•shld• Vortex Shield",
+
+  // Wirt's Leg
+  "leg": "•Wirt's Leg•",
+
+  // Charms
+  "cm1": "•••Small Charm•••",
+  "cm2": "•Large Charm•",
+  "cm3": "•••Grand Charm•••",
+
+  // Jewelry
+  "jew": "•Jewel•",
+  "rin": "•Ring•",
+  "amu": "•Amulet•",
+
+  // Essences
+  "tes": "ÿc8•essence• ÿc0from ÿc2Andariel ÿc0or ÿc3Duriel",
+  "ceh": "ÿc8•essence• ÿc0from ÿc7Mephisto",
+  "bet": "ÿc8•essence• ÿc0from ÿc1Diablo",
+  "fed": "ÿc8•essence• ÿc0from ÿc2Baal"
+}
